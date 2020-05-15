@@ -1,0 +1,7 @@
+exports.authController = require('./authController')
+exports.settingsController = require('./settingsController')
+exports.userController = require('./userController')
+exports.postController = require('./postController')
+exports.commentController = require('./commentController')
+exports.likeController = require('./likeController')
+exports.notificationsController = require('./notificationsController')

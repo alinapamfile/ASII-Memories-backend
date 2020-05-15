@@ -1,0 +1,1 @@
+exports.getToken = require('./getToken')
